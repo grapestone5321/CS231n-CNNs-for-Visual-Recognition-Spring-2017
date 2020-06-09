@@ -17,6 +17,18 @@ Keywords: Computer vision, Cambrian Explosion, Camera Obscura, Hubel and Wiesel,
 
 Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
 
+## Lecture 2 | Image Classification
 
+Aug 12, 2017
 
+Lecture 2 formalizes the problem of image classification. 
+
+We discuss the inherent difficulties of image classification, and introduce data-driven approaches. 
+
+We discuss two simple data-driven image classification algorithms: K-Nearest Neighbors and Linear Classifiers, and introduce the concepts of hyperparameters and cross-validation.
+
+Keywords: Image classification, K-Nearest Neighbor, distance metrics, hyperparameters, cross-validation, linear classifiers
+
+Slides:
+http://cs231n.stanford.edu/slides/201...
 
